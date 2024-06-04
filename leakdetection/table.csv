@@ -1,0 +1,17 @@
+Algorithm,Accuracy,Robustness,Computational Complexity,Parameter Sensitivity,Scalability
+Threshold-based,"Simple, may produce false positives/misses",Not robust against noise/variations,Low,Sensitivity to threshold parameter,Scales well
+Moving Average,"Effective for gradual changes, may lag",Robust to some extent,Moderate,Sensitivity to window size parameter,"Scales well, larger windows increase complexity"
+Z-Score Analysis,Effective for statistical deviations,Robust against noise/variations,Moderate,Sensitivity to threshold parameter,Scales well
+Isolation Forest,"Effective for outliers, robust",Robust against noise/variations,Moderate to high,Sensitivity to contamination parameter,Scales well
+Kalman Filter,"Effective for dynamic systems, robust",Robust against noise/variations,Moderate,Sensitivity to variance parameters,Scales well
+OCSVM,"Effective for outliers, robust",Robust against noise/variations,Moderate to high,Sensitivity to nu parameter,Scales well
+LOF,"Effective for local density, robust",Robust against noise/variations,Moderate to high,Sensitivity to number of neighbors parameter,Scales well
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

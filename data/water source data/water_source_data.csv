@@ -1,0 +1,71 @@
+Zone Name,Area Name,Surface Water Source,Surface Water Capacity (MLD),Ground Water Source,Ground Water Capacity (MLD),Desalination Plant,Desalination Capacity (MLD),Waste Water Treatment Plant,WWTP Capacity (MLD)
+North Zone,Tondiarpet,None,0,Local Borewells,10,Minjur Desalination Plant,50,Tondiarpet WWTP,30
+North Zone,Royapuram,Red Hills Lake,50,Local Borewells,8,Minjur Desalination Plant,25,Royapuram WWTP,20
+North Zone,Thiru-Vi-Ka Nagar,Red Hills Lake,75,Local Borewells,12,None,0,Thiru-Vi-Ka Nagar WWTP,25
+North Zone,Manali,None,0,Local Borewells,5,Minjur Desalination Plant,15,Manali WWTP,10
+North Zone,Washermanpet,Red Hills Lake,45,Local Borewells,7,None,0,Washermanpet WWTP,20
+North Zone,Choolai,Poondi Reservoir,40,Local Borewells,6,None,0,Choolai WWTP,15
+North Zone,Madhavaram,Poondi Reservoir,35,Local Borewells,5,None,0,Madhavaram WWTP,10
+North Zone,Sembium,Poondi Reservoir,30,Local Borewells,4,None,0,Sembium WWTP,10
+North Zone,Retteri,Poondi Reservoir,25,Local Borewells,3,None,0,Retteri WWTP,5
+Central Zone,George Town,Red Hills Lake,55,Local Borewells,10,None,0,George Town WWTP,25
+Central Zone,Sowcarpet,Red Hills Lake,50,Local Borewells,8,None,0,Sowcarpet WWTP,20
+Central Zone,Triplicane,Veeranam Lake,45,Local Borewells,7,None,0,Triplicane WWTP,20
+Central Zone,Mylapore,Veeranam Lake,40,Local Borewells,6,None,0,Mylapore WWTP,15
+Central Zone,Egmore,Poondi Reservoir,35,Local Borewells,5,None,0,Egmore WWTP,15
+Central Zone,Nungambakkam,Poondi Reservoir,30,Local Borewells,4,None,0,Nungambakkam WWTP,10
+Central Zone,Purasawalkam,Poondi Reservoir,25,Local Borewells,3,None,0,Purasawalkam WWTP,10
+Central Zone,Chintadripet,Red Hills Lake,20,Local Borewells,3,None,0,Chintadripet WWTP,5
+Central Zone,Vepery,Red Hills Lake,15,Local Borewells,2,None,0,Vepery WWTP,5
+West Zone,Anna Nagar,Veeranam Lake,60,Local Borewells,12,None,0,Anna Nagar WWTP,30
+West Zone,Kilpauk,Veeranam Lake,55,Local Borewells,10,None,0,Kilpauk WWTP,25
+West Zone,Mogappair,Poondi Reservoir,50,Local Borewells,9,None,0,Mogappair WWTP,20
+West Zone,Ambattur,Veeranam Lake,45,Local Borewells,8,None,0,Ambattur WWTP,20
+West Zone,Virugambakkam,Poondi Reservoir,40,Local Borewells,7,None,0,Virugambakkam WWTP,15
+West Zone,Koyambedu,Veeranam Lake,35,Local Borewells,6,None,0,Koyambedu WWTP,15
+West Zone,Valasaravakkam,Veeranam Lake,30,Local Borewells,5,None,0,Valasaravakkam WWTP,10
+West Zone,Avadi,Puzhal Lake,25,Local Borewells,5,None,0,Avadi WWTP,10
+West Zone,Ayyapakkam,Puzhal Lake,20,Local Borewells,4,None,0,Ayyapakkam WWTP,5
+West Zone,Maduravoyal,Puzhal Lake,15,Local Borewells,3,None,0,Maduravoyal WWTP,5
+West Zone,Nolambur,Puzhal Lake,10,Local Borewells,2,None,0,Nolambur WWTP,5
+South Zone,Adyar,Veeranam Lake,70,Local Borewells,15,None,0,Adyar WWTP,35
+South Zone,Besant Nagar,Veeranam Lake,65,Local Borewells,14,None,0,Besant Nagar WWTP,30
+South Zone,Thiruvanmiyur,Veeranam Lake,60,Local Borewells,13,None,0,Thiruvanmiyur WWTP,30
+South Zone,Velachery,Veeranam Lake,55,Local Borewells,12,None,0,Velachery WWTP,25
+South Zone,Guindy,Veeranam Lake,50,Local Borewells,10,None,0,Guindy WWTP,20
+South Zone,Kotturpuram,Veeranam Lake,45,Local Borewells,9,None,0,Kotturpuram WWTP,20
+South Zone,Madipakkam,Veeranam Lake,40,Local Borewells,8,None,0,Madipakkam WWTP,20
+South Zone,Pallikaranai,Veeranam Lake,35,Local Borewells,7,None,0,Pallikaranai WWTP,15
+South Zone,Perungudi,Veeranam Lake,30,Local Borewells,6,None,0,Perungudi WWTP,15
+South Zone,Sholinganallur,Veeranam Lake,25,Local Borewells,5,None,0,Sholinganallur WWTP,10
+South Zone,Karapakkam,Veeranam Lake,20,Local Borewells,4,None,0,Karapakkam WWTP,5
+South Zone,Neelankarai,Veeranam Lake,15,Local Borewells,3,None,0,Neelankarai WWTP,5
+Southwest Zone,Saidapet,Veeranam Lake,55,Local Borewells,11,None,0,Saidapet WWTP,25
+Southwest Zone,T. Nagar,Veeranam Lake,50,Local Borewells,10,None,0,T. Nagar WWTP,20
+Southwest Zone,Kodambakkam,Veeranam Lake,45,Local Borewells,9,None,0,Kodambakkam WWTP,20
+Southwest Zone,Teynampet,Veeranam Lake,40,Local Borewells,8,None,0,Teynampet WWTP,15
+Southwest Zone,West Mambalam,Veeranam Lake,35,Local Borewells,7,None,0,West Mambalam WWTP,15
+Southwest Zone,Ashok Nagar,Veeranam Lake,30,Local Borewells,6,None,0,Ashok Nagar WWTP,10
+Southwest Zone,Alwarpet,Veeranam Lake,25,Local Borewells,5,None,0,Alwarpet WWTP,10
+Southwest Zone,Nandanam,Veeranam Lake,20,Local Borewells,4,None,0,Nandanam WWTP,5
+Southeast Zone,Sholinganallur,Veeranam Lake,40,Local Borewells,8,Nemmeli Desalination Plant,15,Sholinganallur WWTP,20
+Southeast Zone,Perungudi,Veeranam Lake,35,Local Borewells,7,None,0,Perungudi WWTP,15
+Southeast Zone,Thoraipakkam,Veeranam Lake,30,Local Borewells,6,None,0,Thoraipakkam WWTP,15
+Southeast Zone,Neelankarai,Veeranam Lake,25,Local Borewells,5,None,0,Neelankarai WWTP,10
+Southeast Zone,Palavakkam,Veeranam Lake,20,Local Borewells,4,None,0,Palavakkam WWTP,5
+Southeast Zone,Kottivakkam,Veeranam Lake,15,Local Borewells,3,None,0,Kottivakkam WWTP,5
+Southeast Zone,Injambakkam,Veeranam Lake,10,Local Borewells,2,None,0,Injambakkam WWTP,5
+Southeast Zone,Tambaram,Veeranam Lake,50,Local Borewells,10,None,0,Tambaram WWTP,25
+Southeast Zone,Velachery,Veeranam Lake,45,Local Borewells,9,None,0,Velachery WWTP,20
+Southeast Zone,Medavakkam,Veeranam Lake,40,Local Borewells,8,None,0,Medavakkam WWTP,20
+Southeast Zone,Perumbakkam,Veeranam Lake,35,Local Borewells,6,None,0,Perumbakkam WWTP,15
+Northwest Zone,Madhavaram,Poondi Reservoir,25,Local Borewells,5,None,0,Madhavaram WWTP,10
+Northwest Zone,Perambur,Poondi Reservoir,20,Local Borewells,4,None,0,Perambur WWTP,10
+Northwest Zone,Kolathur,Poondi Reservoir,15,Local Borewells,3,None,0,Kolathur WWTP,10
+Northwest Zone,Puzhal,Puzhal Lake,10,Local Borewells,2,None,0,Puzhal WWTP,5
+Northwest Zone,Sembium,Poondi Reservoir,10,Local Borewells,2,None,0,Sembium WWTP,5
+Northwest Zone,Retteri,Puzhal Lake,15,Local Borewells,3,None,0,Retteri WWTP,10
+Northwest Zone,Villivakkam,Poondi Reservoir,20,Local Borewells,4,None,0,Villivakkam WWTP,10
+Northwest Zone,Ayanavaram,Poondi Reservoir,25,Local Borewells,5,None,0,Ayanavaram WWTP,10
+Northwest Zone,Korattur,Puzhal Lake,30,Local Borewells,6,None,0,Korattur WWTP,15
+

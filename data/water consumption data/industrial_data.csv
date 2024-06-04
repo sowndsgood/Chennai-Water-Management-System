@@ -1,0 +1,70 @@
+Zone Name,Area Name,Industry Number,Total Daily Water Consumption (Lower),Total Daily Water Consumption (Upper)
+North Zone,Tondiarpet,52,217048,217724
+North Zone,Royapuram,93,419151,441564
+North Zone,Thiru-Vi-Ka Nagar,15,27900,39540
+North Zone,Manali,72,165168,190008
+North Zone,Washermanpet,61,129930,164334
+North Zone,Choolai,21,43995,62832
+North Zone,Madhavaram,83,396076,424213
+North Zone,Sembium,87,356004,363921
+North Zone,Retteri,75,197850,225300
+Central Zone,George Town,75,237675,309300
+Central Zone,Sowcarpet,88,129008,168960
+Central Zone,Triplicane,100,223800,266500
+Central Zone,Mylapore,24,31920,44112
+Central Zone,Egmore,3,7446,9771
+Central Zone,Nungambakkam,22,68970,89694
+Central Zone,Purasawalkam,53,235532,237334
+Central Zone,Chintadripet,2,8342,8752
+Central Zone,Vepery,88,344872,351912
+West Zone,Anna Nagar,30,142050,169980
+West Zone,Kilpauk,38,42940,64258
+West Zone,Mogappair,2,5370,7112
+West Zone,Ambattur,64,280320,305088
+West Zone,Virugambakkam,60,106140,106200
+West Zone,Koyambedu,21,71211,79380
+West Zone,Valasaravakkam,33,82995,101640
+West Zone,Avadi,76,340860,348840
+West Zone,Ayyapakkam,58,223474,268192
+West Zone,Maduravoyal,22,75526,93588
+West Zone,Nolambur,89,197135,239499
+South Zone,Adyar,49,95795,130193
+South Zone,Besant Nagar,91,302484,338975
+South Zone,Thiruvanmiyur,59,128856,171867
+South Zone,Velachery,42,61278,84588
+South Zone,Guindy,92,403420,418232
+South Zone,Kotturpuram,60,61260,73320
+South Zone,Madipakkam,80,264000,340560
+South Zone,Pallikaranai,15,26205,41130
+South Zone,Perungudi,62,242048,258726
+South Zone,Sholinganallur,62,287184,340628
+South Zone,Karapakkam,47,69278,107583
+South Zone,Neelankarai,62,129084,145824
+Southwest Zone,Saidapet,51,181458,204663
+Southwest Zone,T. Nagar,55,261415,286770
+Southwest Zone,Kodambakkam,64,195008,241472
+Southwest Zone,Teynampet,3,13641,14394
+Southwest Zone,West Mambalam,51,191097,226848
+Southwest Zone,Ashok Nagar,7,13825,15890
+Southwest Zone,Alwarpet,21,58926,74130
+Southwest Zone,Nandanam,73,86797,139284
+Southeast Zone,Sholinganallur,39,156195,185367
+Southeast Zone,Perungudi,18,67212,73278
+Southeast Zone,Thoraipakkam,4,16020,19532
+Southeast Zone,Neelankarai,89,139018,143646
+Southeast Zone,Palavakkam,60,173940,221400
+Southeast Zone,Kottivakkam,14,64932,77826
+Southeast Zone,Injambakkam,9,20403,22347
+Southeast Zone,Tambaram,90,349110,417780
+Southeast Zone,Velachery,53,133984,143895
+Southeast Zone,Medavakkam,2,8404,9162
+Southeast Zone,Perumbakkam,84,382704,424032
+Northwest Zone,Madhavaram,92,449880,453560
+Northwest Zone,Perambur,60,98760,108120
+Northwest Zone,Kolathur,71,217828,218822
+Northwest Zone,Puzhal,44,171072,206800
+Northwest Zone,Sembium,8,25712,26224
+Northwest Zone,Retteri,47,107959,148191
+Northwest Zone,Villivakkam,35,120225,149555
+Northwest Zone,Ayanavaram,78,124800,165360
+Northwest Zone,Korattur,81,272403,300186

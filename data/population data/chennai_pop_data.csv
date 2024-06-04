@@ -1,0 +1,70 @@
+Zone Name,Area Name,Population,Schools,Colleges,Canteens,Hostels,Malls,Hospitals,Railway Stations,Offices,Stadiums,Theaters,Bus Stations
+North Zone,Tondiarpet,548500,5,2,10,3,2,3,1,15,1,2,5
+North Zone,Royapuram,658200,6,3,8,2,3,4,1,12,1,3,4
+North Zone,Thiru-Vi-Ka Nagar,767900,7,2,12,4,1,5,1,18,1,2,6
+North Zone,Manali,767900,7,2,12,4,1,5,1,18,1,2,6
+North Zone,Washermanpet,658200,6,3,8,2,3,4,1,12,1,3,4
+North Zone,Choolai,548500,5,2,10,3,2,3,1,15,1,2,5
+North Zone,Madhavaram,493650,4,2,8,2,2,3,1,12,1,2,4
+North Zone,Sembium,658200,6,3,8,2,3,4,1,12,1,3,4
+North Zone,Retteri,548500,5,2,10,3,2,3,1,15,1,2,5
+Central Zone,George Town,767900,7,2,12,4,1,5,1,18,1,2,6
+Central Zone,Sowcarpet,658200,6,3,8,2,3,4,1,12,1,3,4
+Central Zone,Triplicane,548500,5,2,10,3,2,3,1,15,1,2,5
+Central Zone,Mylapore,767900,7,2,12,4,1,5,1,18,1,2,6
+Central Zone,Egmore,767900,7,2,12,4,1,5,1,18,1,2,6
+Central Zone,Nungambakkam,658200,6,3,8,2,3,4,1,12,1,3,4
+Central Zone,Purasawalkam,548500,5,2,10,3,2,3,1,15,1,2,5
+Central Zone,Chintadripet,658200,6,3,8,2,3,4,1,12,1,3,4
+Central Zone,Vepery,767900,7,2,12,4,1,5,1,18,1,2,6
+West Zone,Anna Nagar,767900,7,2,12,4,1,5,1,18,1,2,6
+West Zone,Kilpauk,658200,6,3,8,2,3,4,1,12,1,3,4
+West Zone,Mogappair,548500,5,2,10,3,2,3,1,15,1,2,5
+West Zone,Ambattur,767900,7,2,12,4,1,5,1,18,1,2,6
+West Zone,Virugambakkam,767900,7,2,12,4,1,5,1,18,1,2,6
+West Zone,Koyambedu,658200,6,3,8,2,3,4,1,12,1,3,4
+West Zone,Valasaravakkam,548500,5,2,10,3,2,3,1,15,1,2,5
+West Zone,Avadi,767900,7,2,12,4,1,5,1,18,1,2,6
+West Zone,Ayyapakkam,767900,7,2,12,4,1,5,1,18,1,2,6
+West Zone,Maduravoyal,658200,6,3,8,2,3,4,1,12,1,3,4
+West Zone,Nolambur,548500,5,2,10,3,2,3,1,15,1,2,5
+South Zone,Adyar,767900,7,2,12,4,1,5,1,18,1,2,6
+South Zone,Besant Nagar,658200,6,3,8,2,3,4,1,12,1,3,4
+South Zone,Thiruvanmiyur,548500,5,2,10,3,2,3,1,15,1,2,5
+South Zone,Velachery,767900,7,2,12,4,1,5,1,18,1,2,6
+South Zone,Guindy,767900,7,2,12,4,1,5,1,18,1,2,6
+South Zone,Kotturpuram,658200,6,3,8,2,3,4,1,12,1,3,4
+South Zone,Madipakkam,548500,5,2,10,3,2,3,1,15,1,2,5
+South Zone,Pallikaranai,658200,6,3,8,2,3,4,1,12,1,3,4
+South Zone,Perungudi,767900,7,2,12,4,1,5,1,18,1,2,6
+South Zone,Sholinganallur,767900,7,2,12,4,1,5,1,18,1,2,6
+South Zone,Karapakkam,658200,6,3,8,2,3,4,1,12,1,3,4
+South Zone,Neelankarai,548500,5,2,10,3,2,3,1,15,1,2,5
+Southwest Zone,Saidapet,767900,7,2,12,4,1,5,1,18,1,2,6
+Southwest Zone,T. Nagar,658200,6,3,8,2,3,4,1,12,1,3,4
+Southwest Zone,Kodambakkam,548500,5,2,10,3,2,3,1,15,1,2,5
+Southwest Zone,Teynampet,767900,7,2,12,4,1,5,1,18,1,2,6
+Southwest Zone,West Mambalam,767900,7,2,12,4,1,5,1,18,1,2,6
+Southwest Zone,Ashok Nagar,658200,6,3,8,2,3,4,1,12,1,3,4
+Southwest Zone,Alwarpet,767900,7,2,12,4,1,5,1,18,1,2,6
+Southwest Zone,Nandanam,767900,7,2,12,4,1,5,1,18,1,2,6
+Southeast Zone,Sholinganallur,767900,7,2,12,4,1,5,1,18,1,2,6
+Southeast Zone,Perungudi,658200,6,3,8,2,3,4,1,12,1,3,4
+Southeast Zone,Thoraipakkam,548500,5,2,10,3,2,3,1,15,1,2,5
+Southeast Zone,Neelankarai,767900,7,2,12,4,1,5,1,18,1,2,6
+Southeast Zone,Palavakkam,767900,7,2,12,4,1,5,1,18,1,2,6
+Southeast Zone,Kottivakkam,658200,6,3,8,2,3,4,1,12,1,3,4
+Southeast Zone,Injambakkam,548500,5,2,10,3,2,3,1,15,1,2,5
+Southeast Zone,Tambaram,767900,7,2,12,4,1,5,1,18,1,2,6
+Southeast Zone,Velachery,767900,7,2,12,4,1,5,1,18,1,2,6
+Southeast Zone,Medavakkam,658200,6,3,8,2,3,4,1,12,1,3,4
+Southeast Zone,Perumbakkam,548500,5,2,10,3,2,3,1,15,1,2,5
+Northwest Zone,Madhavaram,767900,7,2,12,4,1,5,1,18,1,2,6
+Northwest Zone,Perambur,767900,7,2,12,4,1,5,1,18,1,2,6
+Northwest Zone,Kolathur,658200,6,3,8,2,3,4,1,12,1,3,4
+Northwest Zone,Puzhal,548500,5,2,10,3,2,3,1,15,1,2,5
+Northwest Zone,Sembium,767900,7,2,12,4,1,5,1,18,1,2,6
+Northwest Zone,Retteri,767900,7,2,12,4,1,5,1,18,1,2,6
+Northwest Zone,Villivakkam,658200,6,3,8,2,3,4,1,12,1,3,4
+Northwest Zone,Ayanavaram,548500,5,2,10,3,2,3,1,15,1,2,5
+Northwest Zone,Korattur,767900,7,2,12,4,1,5,1,18,1,2,6
